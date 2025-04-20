@@ -70,7 +70,8 @@ Feel free to fork the repo, improve queries, or share insights! Pull requests ar
 
 ## 📬 Contact
 
-For feedback or collaborations: **[Prasenjit Saha/ prasenjit8841@gmail.com / [LinkedIn](https://www.linkedin.com/in/prasenjitsaha8841/)]**
+For feedback or collaborations: **[Prasenjit Saha/ prasenjit8841@gmail.com 
+[LinkedIn]:(https://www.linkedin.com/in/prasenjitsaha8841/)]**
 
 ---
 
